@@ -1,0 +1,3 @@
+Blue = #26367E
+Cream = #DECAAC
+White = #EEEEEE
